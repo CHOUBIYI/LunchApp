@@ -42,6 +42,9 @@
                     <br><br/>
 
                     <a href="/etudiant" class="btn btn-danger"> Revenir à la liste des étudiants </a>
+                   <br/> 
+                    <a href ="/ma_page" class="btn btn-danger"> Visiter ma page </a>
+
                     </div>
                 </form>
 
